@@ -23,7 +23,7 @@ Requirements:
 Installation:
 -------------
 1. Clone the repository or download the files:
-   git clone https://github.com/YourUsername/twitter_scraper.git
+   git clone https://github.com/ifyouknowyou/twitter_scraper.git
    cd twitter_scraper
 
 2. Install required Python libraries:
